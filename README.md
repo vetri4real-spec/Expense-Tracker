@@ -1,7 +1,5 @@
 # 💰 Smart Expense & Profit Tracker
 
-A full-stack Java web application to track income, expenses, and profit.
-
 ## 🚀 Features
 - User Login (Servlet + JSP)
 - Add Expense / Income
